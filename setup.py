@@ -10,7 +10,7 @@ description = (
 )
 
 setuptools.setup(
-    name="sqBox-JLRitch",
+    name="sqBox",
     version="0.0.0",
     author="Jere Ritchie<jereritchie@gmail.com>",
     description=description,

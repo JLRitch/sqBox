@@ -1,0 +1,6 @@
+README.md
+setup.py
+sqBox.egg-info/PKG-INFO
+sqBox.egg-info/SOURCES.txt
+sqBox.egg-info/dependency_links.txt
+sqBox.egg-info/top_level.txt
