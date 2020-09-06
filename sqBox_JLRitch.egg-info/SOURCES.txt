@@ -1,6 +1,0 @@
-README.md
-setup.py
-sqBox_JLRitch.egg-info/PKG-INFO
-sqBox_JLRitch.egg-info/SOURCES.txt
-sqBox_JLRitch.egg-info/dependency_links.txt
-sqBox_JLRitch.egg-info/top_level.txt
