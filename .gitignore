@@ -1,2 +1,3 @@
-sqBox_JLRitch.egg-info
 build\
+env
+.vscode
